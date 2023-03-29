@@ -1,0 +1,19 @@
+[
+  {
+    "id": "14895ebe-40d0-42f3-9ac4-0923d60bdb6c",
+    "firstName": "Ivan",
+    "lastName": "Lazarevski",
+    "email": "ivoooL@gmail.com",
+    "isCurrentlyTeaching": false,
+    "timeEmployed": "4 year",
+    "courseFinished": 1
+  },
+  {
+    "id": "2ea3aaa8-33fe-4dc3-9f2d-bb9ec896363c",
+    "firstName": "Ilija",
+    "lastName": "Nekojsi",
+    "email": "Odprilika@gmail.com",
+    "timeEmployed": "16 year",
+    "courseFinished": 1
+  }
+]
